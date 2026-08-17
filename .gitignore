@@ -21,3 +21,7 @@ quickjs-2021-03-27/
 # Python
 __pycache__/
 *.pyc
+
+# Local-only reverse-engineering workspace (never upload)
+tools/
+requirements.txt
