@@ -1,0 +1,19 @@
+# Android / Gradle
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+
+# Node
+node_modules/
+
+# Large local reverse-engineering artifacts
+apk_extract/
+*.apk
+*.tar.xz
+quickjs-2021-03-27/
