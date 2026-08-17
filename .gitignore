@@ -17,3 +17,7 @@ apk_extract/
 *.apk
 *.tar.xz
 quickjs-2021-03-27/
+
+# Python
+__pycache__/
+*.pyc
